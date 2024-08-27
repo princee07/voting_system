@@ -1,0 +1,121 @@
+.homePage {
+    font-family: 'Poppins', sans-serif;
+    color: #2c3e50;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Section */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Hero Section */
+  .hero {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #ecf0f1;
+    border-radius: 8px;
+  }
+  
+  .heroContent {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .subtitle {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+    color: #7f8c8d;
+  }
+  
+  .getStartedButton {
+    background-color: #e74c3c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .getStartedButton:hover {
+    background-color: #c0392b;
+  }
+  
+  /* Features Section */
+  .features {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0;
+  }
+  
+  .feature {
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .feature h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .feature p {
+    color: #7f8c8d;
+  }
+  
+  /* How It Works Section */
+  .howItWorks {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .howItWorks h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .steps {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .step {
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .step h3 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+  }
+  
+  .step p {
+    color: #7f8c8d;
+  }
+  
+  /* Footer Section */
+  .footer {
+    padding: 20px 0;
+    text-align: center;
+    background-color: #34495e;
+    color: white;
+    border-radius: 8px;
+    margin-top: 30px;
+  }
+  
